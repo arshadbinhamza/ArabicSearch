@@ -329,12 +329,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Arshad Bin Hamza**
 
 - Website: [arshadbinhamza.com](https://arshadbinhamza.com)
-- GitHub: [@arshadbinhamza](https://github.com/arshadbinhamza)
+
 
 ## 🙏 Acknowledgments
 
-- Thanks to https://gist.github.com/alierdogan7/ who contributed ArabicNormalizer Class
-- Thanks to all contributors who have helped with this project especially 
+- Thanks to https://stackoverflow.com/users/3517232/ibrabel and https://gist.github.com/alierdogan7/ who contributed ArabicNormalizer Class
+- Thanks to all contributors who have helped with this project  
 - Inspired by the need for better Arabic text processing in Android
 
 ## 📚 Documentation
