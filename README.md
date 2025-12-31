@@ -341,10 +341,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For complete documentation and examples, visit:
 - [Complete Guide (HTML)](https://arshadbinhamza.com/arabicsearch/)
-- [Java Documentation](https://arshadbinhamza.com/arabicsearch/ABHArabicDiacritics.java)
+- [Java Document 1 ](https://arshadbinhamza.com/arabicsearch/ABHArabicDiacritics.java)  
+- [Java Document 2](https://arshadbinhamza.com/arabicsearch/ArabicNormalizer.java) 
 
 ---
 
 ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ 
+ 
